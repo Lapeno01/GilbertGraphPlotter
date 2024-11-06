@@ -1,0 +1,20 @@
+### Generated files ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+java/
+
+### IntelliJ IDEA ###
+.idea/
+.bsp/
+.run/
+
+### Java test files ###
+.java/
+
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
